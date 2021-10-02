@@ -1,0 +1,1 @@
+"""Everything concerning the interface of the data to be trained on."""

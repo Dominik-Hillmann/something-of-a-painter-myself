@@ -5,3 +5,4 @@ torchaudio===0.9.1 -f https://download.pytorch.org/whl/torch_stable.html
 jupyter==1.0.0
 matplotlib==3.4.3
 opencv
+tfrecord==1.14.1
